@@ -5,7 +5,7 @@ Project used to demonstrate the use of Artificial Intelligence using the [AWS Re
 ## Requirements
 
 - Python
-- Conta AWS
+- AWS Account
 
 ## Environment
 
