@@ -1,6 +1,6 @@
 # Celebrity Recognition
 
-Project used to demonstrate the use of Artificial Intelligence using the [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_RecognizeCelebrities.html)
+This project uses [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_RecognizeCelebrities.html) with a 90% match confidence to demonstrate the application of Artificial Intelligence
 
 ## Requirements
 
